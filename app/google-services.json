@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663173695796",
+    "project_id": "guess-the-music"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663173695796:android:be927d4b2535ba04",
+        "android_client_info": {
+          "package_name": "com.superapp.notnhacvuivangbolerotrochoiamnhac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663173695796-eee3dkroqtfin2bh0101rsl3cspujg9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superapp.notnhacvuivangbolerotrochoiamnhac",
+            "certificate_hash": "53A3D5EB758769D86F086A8CFF2D64C7D1221058"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUcdssmJhUMjf8z0payvAnwFmVzAOVqBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-74924091-7"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

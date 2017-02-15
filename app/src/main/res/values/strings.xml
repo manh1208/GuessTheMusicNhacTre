@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nghe Nhạc Trẻ Đoán Tên Bài</string>
+    <string name="title_activity_game_play_select">GamePlaySelectActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="app_id">670345016259</string>
+    <string name="app_facebook_id">627490414076062</string>
+    <string name="sender_id">670345016259</string>
+    <string name="LeaderBoard">CgkItJLuwaYTEAIQAA</string>
+    <string name="signin_other_error">There was an issue with sign in. Please try again later.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6079114901814202/3735267177</string>
+    <string name="title_activity_game_play_toc_do">GamePlayTocDoActivity</string>
+</resources>

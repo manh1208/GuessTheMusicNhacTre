@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textcolorwhite">#ffffff</color>
+    <color name="textcolorred"> #ff0000</color>
+    <color name="textcoloryellow">#fff700</color>
+    <color name="button_answer_1">#ed6d6d</color>
+    <color name="button_answer_2">#004096</color>
+    <color name="button_answer_3">#94e486</color>
+    <color name="button_answer_selected">#ce1720</color>
+</resources>
